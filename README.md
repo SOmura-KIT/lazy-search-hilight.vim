@@ -1,0 +1,1 @@
+# lazy-serch-hilight.vim
